@@ -500,3 +500,54 @@ button {
   margin-bottom: 75px;
 
 }
+
+
+/**
+
+* conseils-de-lecture
+
+*/
+
+.citation {
+
+}
+
+.quote {
+
+font-family: Montserrat;
+
+font-weight: 200;
+
+color: #e8a27d;
+
+font-size: 24px;
+
+margin-left: 32px;
+
+
+border-left: 4px solid #d9d9d9;
+
+padding-left: 8px;
+
+}
+
+
+.author {
+
+font-size: 16px;
+
+color: #1a1a1a;
+
+text-align: right;
+
+margin-top: 60px;
+
+margin-bottom: 75px;
+
+}
+.description {
+  font-family: Work Sans;
+  font-size: 20px;
+  color: #1a1a1a;
+  text-align: justify;
+}
