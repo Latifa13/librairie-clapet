@@ -92,7 +92,7 @@ button {
 .container {
   margin: auto;
   padding: 0 15px;
-  width: 960px;
+  width: 1500px;
   max-width: 100%;
 }
 
@@ -206,6 +206,11 @@ button {
   display: block;
   width: 100%;
   margin: 50px auto;
+}
+
+.image-left {
+  float: left;
+  margin-right:40px;
 }
 
 
