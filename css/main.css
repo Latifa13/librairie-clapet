@@ -570,3 +570,16 @@ margin-top: 99px;
 .img-cover img {
   width: 100%;
 }
+.chapo-découverte {
+  width:960px;
+  height: 116px;
+  font-size:25px;
+  margin-top: 95px;
+  margin-bottom: 50px;
+
+}
+.separator_découverte {
+  margin-top: 75px; 
+  margin-bottom:52px;
+  
+}
