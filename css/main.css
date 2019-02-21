@@ -581,5 +581,97 @@ margin-top: 99px;
 .separator_découverte {
   margin-top: 75px; 
   margin-bottom:52px;
-  
+
 }
+/**
+* page actu
+*/
+
+.container-actu {
+  margin: 
+  auto;
+  padding: 
+  0 15px;
+  width: 
+  1300px;
+  max-width: 
+  100%;
+  height: 
+  100%;
+  }
+  
+  .news--main--actu{
+  padding-bottom: 
+  35px;
+  margin-bottom: 
+  38px;
+  width: 
+  1300px;
+  height: 
+  1000px;
+  }
+  .news__image__actu{
+  width: 
+  588px;
+  height: 
+  365px;
+  margin-right: 
+  26px;
+  float: 
+  left;
+  }
+  
+  .news__content__actu{
+  width: 
+  660px;
+  height: 
+  365px;
+  float: 
+  right;
+  }
+  /**
+  * page actu
+  */
+  
+
+/**
+
+* page actu
+
+*/
+
+.news-list-actu{
+  display: grid;
+  justify-content: center;
+  grid-gap: 35px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  margin-bottom: 35px;
+  grid-column: span 4
+  }
+  
+  /**
+  *grille 4 place
+  */
+  
+  .news-big {
+  grid-column: span 4;
+  }
+  
+  .news-big .news__link{
+  display: flex;
+  }
+  .news-big3G {
+    grid-column: span 2;
+    }
+    
+    .news-big3G .news__link{
+    display: flex;
+    } 
+    .news-big3D {
+      grid-column: span 2;
+      }
+      
+      .news-big3D .news__link{
+      display: flex;
+      } 
